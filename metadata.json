@@ -1,7 +1,8 @@
 {
   "name": "Independex",
   "symbol": "IDX",
-  "uri": "https://raw.githubusercontent.com/BotWizardBot/independex-assets/main/Independex1.png",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/BotWizardBot/independex-assets/main/Independex1.png",
+  "website": "https://independex.io",
+  "twitter": "https://x.com/independex_io"
 }
